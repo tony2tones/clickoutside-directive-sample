@@ -1,0 +1,36 @@
+/* html { */
+    /* background-color: ; */
+/* } */
+.container {
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+    width: 50%;
+}
+
+.dropdown-wrapper {
+    padding: 1rem;
+    border: 2px solid solid black;
+    height: 550px;
+    width: max-content;
+}
+
+.dropdown {
+    background-color: silver;
+    width: 9rem;
+    height: 2rem;
+    text-align: center;
+    padding-top: 0.75rem;
+    border-radius: 0.5rem;
+}
+
+.dropdown:hover {
+    cursor: pointer;
+    background-color: aqua;
+}
+
+ul {
+    
+    width: fit-content;
+    padding: 2rem;
+    border: 2px solid darkcyan;
+}
